@@ -28,7 +28,7 @@ public class Github_Sourcetree_Demo {
         reader.close();
 
     }
-    
+   //test2 
     public static boolean isTriangle(double a, double b, double c) {
         if ((a + b > c) &&
             (a + c > b) && // should be a + c > b
